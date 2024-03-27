@@ -1,0 +1,1364 @@
+﻿Log file open, 03/14/24 08:47:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Assignment_02
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.303244
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2024.03.14-14.47.19:541][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.03.14-14.47.19:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:542][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:563][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.14-14.47.19:563][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.03.14-14.47.19:564][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.03.14-14.47.19:565][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.14-14.47.19:565][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.03.14-14.47.19:565][  0]LogHAL: Display: Platform has ~ 32 GB [34111545344 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.14-14.47.19:565][  0]LogInit: Going up to parent DeviceProfile []
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.14-14.47.19:565][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Scalability.ini]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.03.14-14.47.19:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Engine.ini]
+[2024.03.14-14.47.19:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Config/Windows/Editor.ini]
+[2024.03.14-14.47.19:566][  0]LogInit: Computer: ALDWIN09
+[2024.03.14-14.47.19:566][  0]LogInit: User: AldwinSeanEje
+[2024.03.14-14.47.19:566][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.03.14-14.47.19:566][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.14-14.47.19:566][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2024.03.14-14.47.19:566][  0]LogMemory: Platform Memory Stats for Windows
+[2024.03.14-14.47.19:566][  0]LogMemory: Process Physical Memory: 145.76 MB used, 145.76 MB peak
+[2024.03.14-14.47.19:566][  0]LogMemory: Process Virtual Memory: 131.86 MB used, 131.86 MB peak
+[2024.03.14-14.47.19:566][  0]LogMemory: Physical Memory: 10499.41 MB used,  22031.89 MB free, 32531.30 MB total
+[2024.03.14-14.47.19:566][  0]LogMemory: Virtual Memory: 134192368.00 MB used,  25360.52 MB free, 134217728.00 MB total
+[2024.03.14-14.47.19:571][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.03.14-14.47.19:615][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.03.14-14.47.19:616][  0]LogInit: Using OS detected language (en-US).
+[2024.03.14-14.47.19:616][  0]LogInit: Using OS detected locale (en-CA).
+[2024.03.14-14.47.19:619][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.03.14-14.47.19:823][  0]LogInit: Setting process to per monitor DPI aware
+[2024.03.14-14.47.19:846][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.14-14.47.19:863][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.14-14.47.19:863][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.14-14.47.19:999][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.03.14-14.47.20:004][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.14-14.47.20:004][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.03.14-14.47.20:004][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.03.14-14.47.20:004][  0]LogD3D11RHI: D3D11 adapters:
+[2024.03.14-14.47.20:098][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.03.14-14.47.20:098][  0]LogD3D11RHI:       128/0/16265 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.03.14-14.47.20:254][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2024.03.14-14.47.20:254][  0]LogD3D11RHI:       3962/0/16265 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:       0/0/16265 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     SubSysId    : 153a1025
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     SharedSystemMemory : 17055772672 bytes
+[2024.03.14-14.47.20:257][  0]LogD3D11RHI:     AdapterLuid : 0 71165
+[2024.03.14-14.47.20:266][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.03.14-14.47.20:266][  0]LogD3D11RHI:     GPU DeviceId: 0x1f9d (for the marketing name, search the web for "GPU Device Id")
+[2024.03.14-14.47.20:266][  0]LogWindows: EnumDisplayDevices:
+[2024.03.14-14.47.20:266][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.03.14-14.47.20:267][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.03.14-14.47.20:267][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.03.14-14.47.20:267][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.03.14-14.47.20:267][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2024.03.14-14.47.20:267][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2024.03.14-14.47.20:267][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2024.03.14-14.47.20:267][  0]LogD3D11RHI:   Driver Version: 462.62 (internal:27.21.14.6262, unified:462.62)
+[2024.03.14-14.47.20:267][  0]LogD3D11RHI:      Driver Date: 5-11-2021
+[2024.03.14-14.47.20:267][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     SubSysId    : 153a1025
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     SharedSystemMemory : 17055772672 bytes
+[2024.03.14-14.47.20:268][  0]LogD3D11RHI:     AdapterLuid : 0 71165
+[2024.03.14-14.47.20:345][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.03.14-14.47.20:345][  0]LogD3D11RHI: Async texture creation enabled
+[2024.03.14-14.47.20:345][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.03.14-14.47.20:360][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.03.14-14.47.20:394][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.03.14-14.47.20:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.03.14-14.47.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.03.14-14.47.20:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.03.14-14.47.20:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.03.14-14.47.20:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.03.14-14.47.20:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.03.14-14.47.20:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.03.14-14.47.20:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.03.14-14.47.20:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.03.14-14.47.20:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.03.14-14.47.20:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.03.14-14.47.20:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.03.14-14.47.20:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.03.14-14.47.20:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.03.14-14.47.20:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.03.14-14.47.20:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.03.14-14.47.20:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.03.14-14.47.20:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.03.14-14.47.20:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.03.14-14.47.20:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.03.14-14.47.20:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.03.14-14.47.20:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.03.14-14.47.20:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.03.14-14.47.20:934][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.03.14-14.47.20:944][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.03.14-14.47.20:981][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.03.14-14.47.21:019][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.03.14-14.47.21:019][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Intermediate/Shaders/WorkingDirectory/12316/).
+[2024.03.14-14.47.21:019][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aldwin Sean Eje/AppData/Local/Temp/UnrealShaderWorkingDir/12AACFB040034FF40DE6719196E26427/'.
+[2024.03.14-14.47.21:019][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.03.14-14.47.21:019][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.03.14-14.47.21:019][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.03.14-14.47.21:827][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.03.14-14.47.21:913][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.03.14-14.47.21:913][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.03.14-14.47.21:914][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.14-14.47.21:914][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.03.14-14.47.21:914][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.14-14.47.21:914][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.03.14-14.47.21:936][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.03.14-14.47.21:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.14-14.47.21:937][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.03.14-14.47.21:947][  0]LogDerivedDataCache: Speed tests for C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.03.14-14.47.21:947][  0]LogDerivedDataCache: Display: Performance to C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1236.78MBs, RandomWriteSpeed=99.13MBs. Assigned SpeedClass 'Local'
+[2024.03.14-14.47.21:948][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.14-14.47.21:948][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.14-14.47.21:948][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.03.14-14.47.22:004][  0]LogSlate: Using FreeType 2.10.0
+[2024.03.14-14.47.22:004][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.14-14.47.22:044][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2024.03.14-14.47.22:313][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.14-14.47.22:314][  0]LogInit: Active device profile: [000001E08C2B8F00][000001E081D94940 49] Windows
+[2024.03.14-14.47.22:314][  0]LogInit: Profiles: [000001E08C2B8F00][000001E081D94940 49] Windows, [000001E08C27E400][000001E082462AC0 49] WindowsNoEditor, [000001E08C2B9F00][000001E082C04C00 49] WindowsServer, [000001E08C27D600][000001E082466D40 49] WindowsClient, [000001E08C2B9000][000001E08BBB8E80 49] IOS, [000001E08C27FA00][000001E0823BEFC0 49] iPadAir, [000001E08C2BB300][000001E0823C7140 49] iPadAir2, [000001E08C21D300][000001E0823CF400 49] IPadPro, [000001E08C21D400][000001E0823CB440 49] iPadAir3, [000001E08C27CB00][000001E0823D35C0 49] iPadAir4, [000001E08C21E100][000001E0823D7740 49] iPadMini2, [000001E08C27F400][000001E0823DB8C0 49] iPadMini3, [000001E08C21EC00][000001E0823DFA40 49] iPadMini4, [000001E08C27E700][000001E0823E3BC0 49] iPadMini5, [000001E08C270E00][000001E0823EA300 49] iPhone6, [000001E08C270F00][000001E0823E6340 49] iPodTouch6, [000001E08C2BB700][000001E083C46600 49] iPhone7, [000001E08C2BA800][000001E0823EE640 49] iPodTouch7, [000001E08C21CC00][000001E083C4A7C0 49] iPhone5S, [000001E08C2B9300][000001E083C4E940 49] iPhone6Plus, [000001E08C2B8600][000001E083C52AC0 49] iPhone6S, [000001E08C271300][000001E083C56C40 49] iPhone6SPlus, [000001E08C2B8B00][000001E0823C2D80 49] iPhone7Plus, [000001E08C271600][000001E083C5AEC0 49] iPhoneSE, [000001E08C2B8A00][000001E083C5F000 49] iPhone8, [000001E08C271200][000001E083C63140 49] iPhone8Plus, [000001E08C21EB00][000001E083C6B2C0 49] iPhoneX, [000001E08C270C00][000001E083C6F440 49] iPhoneXS, [000001E08C21FA00][000001E083C735C0 49] iPhoneXSMax, [000001E08C273800][000001E083C77740 49] iPhoneXR, [000001E08C21CD00][000001E083C7B8C0 49] iPhone11, [000001E08C272600][000001E083C7FA40 49] iPhone11Pro, [000001E08C21E900][000001E083C83BC0 49] iPhone11ProMax, [000001E08C270200][000001E083C861C0 49] iPhoneSE2, [000001E08C21CB00][000001E083C8A340 49] iPhone12Mini, [000001E08C272A00][000001E083C8E4C0 49] iPhone12, [000001E08C21EE00][000001E083C92640 49] iPhone12Pro, [000001E08C270A00][000001E083C967C0 49] iPhone12ProMax, [000001E08C21F200][000001E083C9A940 49] iPadPro105, [000001E08C273600][000001E083C9EAC0 49] iPadPro129, [000001E08C21E000][000001E083CA2C40 49] iPadPro97, [000001E08C272000][000001E083CA6DC0 49] iPadPro2_129, [000001E08C21E400][000001E083CAAF40 49] iPad5, [000001E08C271400][000001E083C67080 49] iPad6, [000001E08C21D000][000001E083CAF1C0 49] iPad7, [000001E08C271700][000001E08BD17300 49] iPad8, [000001E08C21FC00][000001E08BD1F480 49] iPadPro11, [000001E08C271800][000001E08BD23600 49] iPadPro2_11, [000001E08C21C600][000001E08BD27780 49] iPadPro3_129, [000001E08C270D00][000001E08BD2B900 49] iPadPro4_129, [000001E08C21F100][000001E08BD2FA80 49] AppleTV, [000001E08C270800][000001E08BD33C00 49] AppleTV4K, [000001E08C21C500][000001E08BD36200 49] TVOS, [000001E08C270500][000001E08BD3A380 49] Mac, [000001E08C21C700][000001E08BD3E500 49] MacClient, [000001E08C271500][000001E08BD42680 49] MacNoEditor, [000001E08C21D500][000001E08BD46800 49] MacServer, [000001E08C272E00][000001E08BD4A980 49] Linux, [000001E08C21C400][000001E08BD4EB00 49] LinuxAArch64, [000001E08C271E00][000001E08BD52C80 49] LinuxNoEditor, [000001E08C21DC00][000001E08BD56E00 49] LinuxAArch64NoEditor, [000001E08C272900][000001E08BD5AF80 49] LinuxClient, [000001E08C21ED00][000001E08BD5F100 49] LinuxAArch64Client, [000001E08C270100][000001E08BD1B240 49] LinuxServer, [000001E08C21DE00][000001E08BD63380 49] LinuxAArch64Server, [000001E08C270B00][000001E08BD674C0 49] Android, [000001E08C21DA00][000001E08BD6F640 49] Android_Low, [000001E08C272F00][000001E08BD737C0 49] Android_Mid, [000001E08C21D100][000001E08BD77940 49] Android_High, [000001E08C273000][000001E08BD7BAC0 49] Android_Default, [000001E08C21D700][000001E08BD7E0C0 49] Android_Adreno4xx, [000001E08C271900][000001E08BD82240 49] Android_Adreno5xx_Low, [000001E08C21CA00][000001E08D0403C0 49] Android_Adreno5xx, [000001E08C273400][000001E08D044540 49] Android_Adreno6xx, [000001E08C21CE00][000001E08D0486C0 49] Android_Adreno6xx_Vulkan, [000001E08C273100][000001E08D04C840 49] Android_Mali_T6xx, [000001E08C2BAF00][000001E08D0509C0 49] Android_Mali_T7xx, [000001E08C27C800][000001E08D054B40 49] Android_Mali_T8xx, [000001E08C2B9200][000001E08D058CC0 49] Android_Mali_G71, [000001E08C27CE00][000001E08D05CE40 49] Android_Mali_G72, [000001E08C2B9100][000001E08D060FC0 49] Android_Mali_G72_Vulkan, [000001E08C27E500][000001E08D065140 49] Android_Mali_G76, [000001E08C2B9500][000001E08D0692C0 49] Android_Mali_G76_Vulkan, [000001E08C27E000][000001E08BD6B400 49] Android_Mali_G77, [000001E08C2BBF00][000001E08D06D540 49] Android_Mali_G77_Vulkan, [000001E08C27DD00][000001E08D071680 49] Android_Mali_G78, [000001E08C2B8300][000001E08D0757C0 49] Android_Mali_G78_Vulkan, [000001E08C27C400][000001E08D07D940 49] Android_Mali_G710, [000001E08C2BB600][000001E08D081AC0 49] Android_Mali_G710_Vulkan, [000001E08C27F100][000001E08D0840C0 49] Android_Vulkan_SM5, [000001E08C2B8900][000001E08D088240 49] Android_PowerVR_G6xxx, [000001E08C27CA00][000001E08D08C3C0 49] Android_PowerVR_GT7xxx, [000001E08C2B8D00][000001E08D090540 49] Android_PowerVR_GE8xxx, [000001E08C27FB00][000001E08D0946C0 49] Android_PowerVR_GM9xxx, [000001E08C2BA300][000001E08D098840 49] Android_PowerVR_GM9xxx_Vulkan, [000001E08C27D200][000001E08D09C9C0 49] Android_TegraK1, [000001E08C2BAA00][000001E08D0A0B40 49] Android_Unknown_Vulkan, [000001E08C27F000][000001E08D0A4CC0 49] Lumin, [000001E08C2B9C00][000001E08D0A8E40 49] Lumin_Desktop, [000001E08C27EE00][000001E08D0ACFC0 49] HoloLens, 
+[2024.03.14-14.47.22:468][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.14-14.47.22:468][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.03.14-14.47.22:468][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.14-14.47.22:468][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.03.14-14.47.22:469][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.03.14-14.47.22:487][  0]LogNetVersion: Assignment_02 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 350624058)
+[2024.03.14-14.47.22:920][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.03.14-14.47.22:998][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.03.14-14.47.23:005][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.03.14-14.47.23:005][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.03.14-14.47.23:005][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.14-14.47.23:235][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 32405BA1455868209B58DE80E0A99069 | Instance: C5F13F6E43E9BEF726D79DA1D5B2E96B (ALDWIN09-12316).
+[2024.03.14-14.47.23:406][  0]LogPython: Using Python 3.7.7
+[2024.03.14-14.47.24:123][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.14-14.47.24:129][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.14-14.47.24:298][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.24:298][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.24:304][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.24:313][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.24:322][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.24:339][  0]LogUProjectInfo: Found projects:
+[2024.03.14-14.47.24:610][  0]LogOpenImageDenoise: OIDN starting up
+[2024.03.14-14.47.24:690][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.14-14.47.24:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.14-14.47.24:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.14-14.47.24:912][  0]LogCollectionManager: Loaded 0 collections in 0.002188 seconds
+[2024.03.14-14.47.24:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/Collections/' took 0.00s
+[2024.03.14-14.47.24:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Developers/AldwinSeanEje/Collections/' took 0.00s
+[2024.03.14-14.47.24:937][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Collections/' took 0.00s
+[2024.03.14-14.47.24:937][  0]LogOcInput: OculusInput pre-init called
+[2024.03.14-14.47.25:216][  0]LogEngine: Initializing Engine...
+[2024.03.14-14.47.25:219][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.03.14-14.47.25:220][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.14-14.47.25:220][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.03.14-14.47.25:221][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.03.14-14.47.25:356][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.14-14.47.25:369][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.03.14-14.47.25:378][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.03.14-14.47.25:382][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.03.14-14.47.25:383][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.03.14-14.47.25:383][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.03.14-14.47.25:383][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.14-14.47.25:383][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.14-14.47.25:383][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.14-14.47.25:384][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.14-14.47.25:384][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.14-14.47.25:384][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.14-14.47.25:384][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.14-14.47.25:395][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.14-14.47.25:395][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.03.14-14.47.26:185][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2024.03.14-14.47.26:190][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.14-14.47.26:195][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.14-14.47.26:195][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.14-14.47.26:196][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.14-14.47.26:196][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.14-14.47.26:196][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.14-14.47.26:197][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.14-14.47.26:198][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.14-14.47.26:198][  0]LogInit: FAudioDevice initialized.
+[2024.03.14-14.47.26:198][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.14-14.47.26:198][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.14-14.47.26:266][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/Aldwin Sean Eje/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.03.14-14.47.26:267][  0]LogInit: Texture streaming: Enabled
+[2024.03.14-14.47.26:283][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.03.14-14.47.26:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.03.14-14.47.26:290][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.03.14-14.47.26:294][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.03.14-14.47.26:363][  0]LogInit: Transaction tracking system initialized
+[2024.03.14-14.47.26:390][  0]BlueprintLog: New page: Editor Load
+[2024.03.14-14.47.26:466][  0]LocalizationService: Localization service is disabled
+[2024.03.14-14.47.26:497][  0]TimingProfiler: Initialize
+[2024.03.14-14.47.26:498][  0]TimingProfiler: OnSessionChanged
+[2024.03.14-14.47.26:498][  0]LoadingProfiler: Initialize
+[2024.03.14-14.47.26:498][  0]LoadingProfiler: OnSessionChanged
+[2024.03.14-14.47.26:498][  0]NetworkingProfiler: Initialize
+[2024.03.14-14.47.26:498][  0]NetworkingProfiler: OnSessionChanged
+[2024.03.14-14.47.26:498][  0]MemoryProfiler: Initialize
+[2024.03.14-14.47.26:498][  0]MemoryProfiler: OnSessionChanged
+[2024.03.14-14.47.26:719][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.03.14-14.47.26:719][  0]LogCook: Display: Mobile HDR setting 1
+[2024.03.14-14.47.26:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/' took 0.01s
+[2024.03.14-14.47.27:196][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.03.14-14.47.27:202][  0]SourceControl: Source control is disabled
+[2024.03.14-14.47.27:202][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.014
+[2024.03.14-14.47.27:203][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.14-14.47.27:203][  0]LightingResults: New page: Lighting Build
+[2024.03.14-14.47.27:205][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.14-14.47.27:205][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.14-14.47.27:205][  0]MapCheck: New page: Map Check
+[2024.03.14-14.47.27:205][  0]LightingResults: New page: Lighting Build
+[2024.03.14-14.47.27:210][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.14-14.47.27:214][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.14-14.47.27:443][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2024.03.14-14.47.27:513][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2024.03.14-14.47.27:515][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.03.14-14.47.27:523][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.14-14.47.27:536][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.14-14.47.27:536][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.14-14.47.27:537][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.227ms to complete.
+[2024.03.14-14.47.27:537][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.335
+[2024.03.14-14.47.27:539][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.351
+[2024.03.14-14.47.27:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.47.27:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.47.27:710][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.47.27:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.47.27:744][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0130 seconds. Added 3822 classes and 928 folders.
+[2024.03.14-14.47.27:748][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.03.14-14.47.27:750][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.14-14.47.27:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.14-14.47.27:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.03.14-14.47.27:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2024.03.14-14.47.27:750][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.03.14-14.47.27:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.03.14-14.47.27:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.03.14-14.47.27:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2024.03.14-14.47.27:751][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.03.14-14.47.27:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.03.14-14.47.27:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.03.14-14.47.27:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.03.14-14.47.27:752][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.14-14.47.27:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.14-14.47.27:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.03.14-14.47.27:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.03.14-14.47.27:753][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.03.14-14.47.27:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.03.14-14.47.27:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.03.14-14.47.27:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2024.03.14-14.47.27:753][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.03.14-14.47.27:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.03.14-14.47.27:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.03.14-14.47.27:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2024.03.14-14.47.27:754][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.03.14-14.47.27:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.03.14-14.47.27:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:754][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.03.14-14.47.27:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2024.03.14-14.47.27:755][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.03.14-14.47.27:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.03.14-14.47.27:755][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:755][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.03.14-14.47.27:755][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2024.03.14-14.47.27:756][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.14-14.47.27:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.14-14.47.27:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.03.14-14.47.27:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.03.14-14.47.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.03.14-14.47.27:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.03.14-14.47.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.03.14-14.47.27:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.14-14.47.27:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.03.14-14.47.27:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.14-14.47.27:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:758][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.03.14-14.47.27:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.03.14-14.47.27:759][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.14-14.47.27:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.14-14.47.27:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:759][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.03.14-14.47.27:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.03.14-14.47.27:760][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.03.14-14.47.27:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.03.14-14.47.27:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.03.14-14.47.27:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.14-14.47.27:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.03.14-14.47.27:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.03.14-14.47.27:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.03.14-14.47.27:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.14-14.47.27:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.14-14.47.27:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.03.14-14.47.27:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2024.03.14-14.47.27:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.14-14.47.27:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.14-14.47.27:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.03.14-14.47.27:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.14-14.47.27:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.03.14-14.47.27:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.14-14.47.27:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.03.14-14.47.27:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.14-14.47.27:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:765][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.03.14-14.47.27:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.03.14-14.47.27:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.03.14-14.47.27:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2024.03.14-14.47.27:766][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.14-14.47.27:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.14-14.47.27:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:766][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.03.14-14.47.27:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2024.03.14-14.47.27:767][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.14-14.47.27:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.14-14.47.27:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.03.14-14.47.27:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2024.03.14-14.47.27:768][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.03.14-14.47.27:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.14-14.47.27:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.03.14-14.47.27:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.03.14-14.47.27:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.03.14-14.47.27:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2024.03.14-14.47.27:824][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.14-14.47.27:825][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2024.03.14-14.47.28:024][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.14-14.47.28:027][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.14-14.47.28:029][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.14-14.47.28:126][  0]LogRenderer: Reallocating scene render targets to support 724x428 Format 9 NumSamples 1 (Frame:1).
+[2024.03.14-14.47.28:248][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.14-14.47.28:248][  0]LogLoad: (Engine Initialization) Total time: 10.06 seconds
+[2024.03.14-14.47.28:248][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.14-14.47.28:300][  0]LogAssetRegistry: Asset discovery search completed in 6.2588 seconds
+[2024.03.14-14.47.28:306][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.03.14-14.47.28:306][  0]LogContentStreaming: Texture pool size now 600 MB
+[2024.03.14-14.47.29:293][ 94]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.14-14.47.36:460][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.03.14-14.47.36:685][890]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.03.14-14.47.37:612][890]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.14-14.47.37:739][891]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.14-14.47.43:481][419]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.14-14.47.45:777][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.14-14.47.45:790][419]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.14-14.47.45:805][419]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.14-14.47.45:806][419]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.14-14.48.14:927][904]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cube
+[2024.03.14-14.48.14:933][904]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.14-14.48.17:593][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cube" FILE="../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Blueprints/BP_Cube.uasset" SILENT=true
+[2024.03.14-14.48.17:602][206]LogSavePackage: Moving '../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/BP_Cube7C0CDBC145C1E7F3C7E875B439981DF1.tmp' to '../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Blueprints/BP_Cube.uasset'
+[2024.03.14-14.48.17:623][206]AssetCheck: New page: Asset Save: BP_Cube
+[2024.03.14-14.48.17:623][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cube.BP_Cube
+[2024.03.14-14.48.18:138][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Cube.BP_Cube
+[2024.03.14-14.48.19:909][371]LogRenderer: Reallocating scene render targets to support 724x532 Format 9 NumSamples 1 (Frame:98).
+[2024.03.14-14.48.42:824][156]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:824][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:824][156]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:824][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:837][157]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:837][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:838][157]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:838][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:838][157]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:838][157]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:850][158]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:862][159]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:862][159]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:863][159]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:863][159]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:863][159]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:863][159]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:875][160]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:875][160]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:876][160]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:876][160]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:876][160]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:876][160]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:890][161]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:903][162]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:904][162]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:904][162]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:904][162]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:904][162]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:904][162]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:915][163]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:915][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:916][163]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:916][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:916][163]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:916][163]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:928][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:941][165]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:953][166]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:953][166]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:953][166]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:953][166]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:954][166]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:954][166]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:966][167]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:977][168]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:977][168]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:977][168]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:978][168]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:978][168]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:978][168]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.42:989][169]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:003][170]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:003][170]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:004][170]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:004][170]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:004][170]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:004][170]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:015][171]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:015][171]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:016][171]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:016][171]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:016][171]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:016][171]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:028][172]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:029][172]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:029][172]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:029][172]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:029][172]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:029][172]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:040][173]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:040][173]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:040][173]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:040][173]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:041][173]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:041][173]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:053][174]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:065][175]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:065][175]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:065][175]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:065][175]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:066][175]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:066][175]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:077][176]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:090][177]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:090][177]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:090][177]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:090][177]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:091][177]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:091][177]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:103][178]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:115][179]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:115][179]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:115][179]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:115][179]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:116][179]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:116][179]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:129][180]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:129][180]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:130][180]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:130][180]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:130][180]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:130][180]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:142][181]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:153][182]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:153][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:154][182]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:154][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:154][182]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:154][182]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:165][183]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:165][183]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:166][183]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:166][183]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:166][183]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:166][183]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:178][184]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:190][185]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:202][186]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:215][187]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:227][188]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:227][188]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:228][188]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:228][188]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:228][188]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:228][188]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:239][189]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:240][189]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:240][189]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:240][189]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:240][189]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:240][189]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:252][190]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:265][191]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:278][192]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:278][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.48.43:278][192]LogPhysics: Warning: Scale for /Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.03.14-14.48.43:278][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_1:PersistentLevel.BP_Cube_C_0.Cube' 
+[2024.03.14-14.49.02:185][657]BlueprintLog: New page: Compile BP_Cube
+[2024.03.14-14.49.02:257][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.03.14-14.49.02:291][657]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.14-14.49.02:887][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Cube" FILE="../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Blueprints/BP_Cube.uasset" SILENT=true
+[2024.03.14-14.49.02:903][696]LogSavePackage: Moving '../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Saved/BP_Cube0DDBBF2046C160287574E3BA705BC86F.tmp' to '../../../../../../Users/Aldwin Sean Eje/Desktop/Introduction To Gaming/Assignment_02/Content/Blueprints/BP_Cube.uasset'
+[2024.03.14-14.49.02:924][696]AssetCheck: New page: Asset Save: BP_Cube
+[2024.03.14-14.49.02:924][696]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Cube.BP_Cube
+[2024.03.14-14.49.17:884][234]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.14-14.49.17:902][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.14-14.49.17:903][234]PIE: New page: PIE session: FirstPersonExampleMap (Mar. 14, 2024, 2:49:17 a.m.)
+[2024.03.14-14.49.17:905][234]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.03.14-14.49.17:907][234]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.03.14-14.49.17:908][234]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.03.14-14.49.17:924][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015752s)
+[2024.03.14-14.49.17:925][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.03.14-14.49.17:925][234]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2024.03.14-14.49.17:925][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017556s)
+[2024.03.14-14.49.17:951][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.03.14-14.49.17:952][234]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.14-14.49.17:952][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.14-14.49.17:953][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.14-14.49.17:953][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.14-14.49.17:953][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.14-14.49.17:953][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.14-14.49.17:953][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.14-14.49.17:953][234]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.14-14.49.17:955][234]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.14-14.49.17:955][234]LogAudioMixer: Display: 1: FrontRight
+[2024.03.14-14.49.18:051][234]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2024.03.14-14.49.18:052][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.14-14.49.18:052][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.14-14.49.18:052][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.14-14.49.18:052][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.14-14.49.18:052][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.14-14.49.18:052][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.14-14.49.18:054][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.14-14.49.18:054][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.14-14.49.18:054][234]LogInit: FAudioDevice initialized.
+[2024.03.14-14.49.18:054][234]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2024.03.14-14.49.18:069][234]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.03.14-14.49.18:074][234]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2024.03.14-08.49.18
+[2024.03.14-14.49.18:075][234]LogWorld: Bringing up level for play took: 0.003352
+[2024.03.14-14.49.18:075][234]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2024.03.14-14.49.18:096][234]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2024.03.14-14.49.18:098][234]PIE: Server logged in
+[2024.03.14-14.49.18:099][234]PIE: Play in editor total start time 0.202 seconds.
+[2024.03.14-14.49.34:281][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.49.34:281][115]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.03.14-14.49.34:282][115]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.14-14.49.34:282][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.14-14.49.34:305][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.14-14.49.34:324][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.14-14.49.34:358][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.14-14.49.34:358][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.14-14.49.34:360][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.14-14.49.34:368][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.14-14.49.34:393][115]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2024.03.14-14.49.34:426][116]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C4EDD8D-426A-022D-BE99-8599AE7FBAD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=528d8c104cdb39858a7eec85f2c0a7ef%7Cbc3b9e70e00d49e38e2100add21d19e7%7C4ff0cc11-4f2f-45ae-b586-4004fd1ef0b7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: request failed, libcurl error: 0 (No error)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e0e592beb0 [can pipeline])
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.92.11.105) port 443 (#0))
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 7 (Closing connection 0)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: 000001E113CAD600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.03.14-14.50.26:346][182]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3C4EDD8D-426A-022D-BE99-8599AE7FBAD4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=528d8c104cdb39858a7eec85f2c0a7ef%7Cbc3b9e70e00d49e38e2100add21d19e7%7C4ff0cc11-4f2f-45ae-b586-4004fd1ef0b7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.14-14.52.22:536][157]LogRHI: Error: Present Fail Count 1
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SyncInterval 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1038
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000704DE
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.Windowed true
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2024.03.14-14.52.22:536][157]LogRHI: Error: SwapChainDesc.Flags 2050
+[2024.03.14-14.52.22:587][160]LogRHI: Error: Present Fail Count 2
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SyncInterval 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1038
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000704DE
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.Windowed true
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2024.03.14-14.52.22:587][160]LogRHI: Error: SwapChainDesc.Flags 2050
+[2024.03.14-14.52.22:655][162]LogRHI: Error: Present Fail Count 3
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SyncInterval 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1038
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000704DE
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.Windowed true
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2024.03.14-14.52.22:655][162]LogRHI: Error: SwapChainDesc.Flags 2050
+[2024.03.14-14.52.22:655][162]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:298 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ (Size=512x256 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=924x256 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2024.03.14-14.52.22:655][162]LogD3D11RHI: [Aftermath] GDynamicRHI=000001E0EA79F440, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2024.03.14-14.52.22:655][162]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.03.14-14.52.22:656][162]LogWindows: Windows GetLastError: The operation completed successfully. (0)
